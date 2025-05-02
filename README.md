@@ -49,7 +49,7 @@ This process reduces unwanted bias while preserving semantic fidelity in the fin
 
 ## References
 
-- **LLada-8B-Instruct**: [LLada Github Repo]([(https://github.com/ML-GSAI/LLaDA)])
+- **LLada-8B-Instruct**: https://github.com/ML-GSAI/LLaDA
 - **GenBit**: Smith et al., *GenBit: A Framework for Fair and Debiased Text Generation*, *ACL 2024*.
 
 ## License
